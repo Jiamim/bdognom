@@ -1,0 +1,8 @@
+MongoDB in Action: Covers MongoDB version 3.0 2nd edition 2016 (4.0/1)
+Web Development with MongoDB and NodeJS 2nd edition 2015 (4.5/4)
+MongoDB Data Modeling 2015 (4.5/4)
+Pro MongoDB Development 2015 (3.0/1)
+MongoDB Cookbook 2014 (4.3/3)
+MongoDB Applied Design Patterns 2013 (4.2/16)
+Pro Hibernate and MongoDB 2013th edition 2013
+PHP and MongoDB Web Development Beginner's Guide 2011 (4.1/10)
